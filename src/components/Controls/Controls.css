@@ -1,0 +1,7 @@
+.controls-wrapper {
+    display: flex;
+    flex-direction: column;
+    background-color: #b7cbff;
+    border-radius: 5px;
+    
+}
